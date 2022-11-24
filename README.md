@@ -1,5 +1,7 @@
 # Transformers文本分类微调和TensorRT推理加速
 
+博客教程：https://blog.csdn.net/weixin_35977125/article/details/128008689
+
 ## 开发环境简介
 
 ### 宿主机环境
